@@ -4,7 +4,6 @@
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -17,8 +16,6 @@ Thumbs.db
 .soroban/
 
 # Environment
-.env
-.env.local
 
 # Coverage and profiling
 *.profraw
@@ -28,3 +25,5 @@ coverage/
 
 # Local-only planning draft, not part of the published repo
 PROJECT-DESCRIPTION.md
+config.bat
+node_modules
